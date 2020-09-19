@@ -7,4 +7,5 @@ Day 10 (https://github.com/Sanyam1211/-100DaysOfCode/blob/master/Day%2010)
 
 Day 11 (Practiced more questions on hackerrank)
 
-Day 12 (Started with errors and exceptions)
+Day 12 (Started with errors and exceptions) 
+(https://github.com/Sanyam1211/-100DaysOfCode/blob/master/Day%2012)
