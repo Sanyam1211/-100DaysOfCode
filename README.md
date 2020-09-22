@@ -13,3 +13,5 @@ Day 12 (Started with errors and exceptions)
 Day 13 (Practiced few questions of errors and exception on hackerrank)
 
 Day 14  (Just revised all the topics which i covered till now)
+
+Day 15  (Today i learn to make a project and i made one game project)
