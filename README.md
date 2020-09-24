@@ -16,4 +16,6 @@ Day 14  (Just revised all the topics which i covered till now)
 
 Day 15  (Today i learn to make a project and i made one game project)
 
-Day 16 (Generators and file handling in Python))
+Day 16 (Generators and file handling in Python)
+
+Day 17 (Practiced some hackerrank questions)
