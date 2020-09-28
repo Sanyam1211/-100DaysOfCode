@@ -23,3 +23,5 @@ Day 17 (Practiced some hackerrank questions)
 Day 18 (Watched some videos for generators and decoraters in python)
 
 Day 19 (Got a certificate from hackerrank for python(basic) challenge)
+
+Day 20 (Just practicing of the topics which i covered till now on hackerrank)
