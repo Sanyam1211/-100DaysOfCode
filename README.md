@@ -26,3 +26,5 @@ Day 19 (Got a certificate from hackerrank for python(basic) challenge)
 
 Day 20 (Just practicing of the topics which i covered till now on hackerrank.
         In few days i will start posting solutions to the hackerrank questions.)
+     
+ Day 21 (Took rest today , Preparing for my minor project)
