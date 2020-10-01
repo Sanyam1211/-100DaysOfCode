@@ -30,4 +30,6 @@ Day 20 (Just practicing of the topics which i covered till now on hackerrank.
 Day 21 (Took rest today , Preparing for my minor project)
 
 Day 22 (Learn more about generators and decoraters and a little bit about web framework in python)
+
+Day 23 (Started with OOPS topics in python)
  
