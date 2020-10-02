@@ -15,6 +15,7 @@ Day 13 (Practiced few questions of errors and exception on hackerrank)
 Day 14  (Just revised all the topics which i covered till now)
 
 Day 15  (Today i learn to make a project and i made one game project)
+         (https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/Day%2015)
 
 Day 16 (Generators and file handling in Python)
 
