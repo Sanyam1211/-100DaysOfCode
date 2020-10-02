@@ -33,4 +33,6 @@ Day 22 (Learn more about generators and decoraters and a little bit about web fr
 
 Day 23 (Started with OOPS topics in python)
         (Hackerrank solutions - https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/Day%2023 )
+        
+Day 24 (Completed with OOPS topics from my python udemy course)
  
