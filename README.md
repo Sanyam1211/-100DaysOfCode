@@ -38,4 +38,6 @@ Day 23 (Started with OOPS topics in python)
 Day 24 (Completed with OOPS topics from my python udemy course)
 
 Day 25 (Tried some hackerrank questions for OOPS concept)
+
+Day 26 (Took rest today and revised old topics)
  
