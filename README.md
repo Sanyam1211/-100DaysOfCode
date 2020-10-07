@@ -42,4 +42,6 @@ Day 25 (Tried some hackerrank questions for OOPS concept)
 Day 26 (Took rest today and revised old topics)
 
 Day 27 (This whole week i will be busy because of my exams so i will just revised my old topics and practice for that topics on hackerrank)
+
+Day 28-29 (Learn about arrays in python and made some basic codes of arrays)
  
