@@ -46,4 +46,6 @@ Day 27 (This whole week i will be busy because of my exams so i will just revise
 Day 28-29 (Learn about arrays in python and made some basic codes of arrays)
 
 Day 30  (Prepared for my python exam and revised all the topics)
+
+Day 31-32 (Practiced hackerone questions and gold star in python 
  
