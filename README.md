@@ -47,5 +47,7 @@ Day 28-29 (Learn about arrays in python and made some basic codes of arrays)
 
 Day 30  (Prepared for my python exam and revised all the topics)
 
-Day 31-32 (Practiced hackerone questions and gold star in python 
+Day 31-32 (Practiced hackerone questions and gold star in python)
+
+Day 33 ( started with new topic i.e python advance modules and working on a new project a new game)
  
