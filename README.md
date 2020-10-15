@@ -57,4 +57,6 @@ https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/Day%2034
 Day 35 (Hangman game new project)(https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/hangman_creator.py)
 
 Day 36 (Revised old topics today)
+
+Day 37 (Solved some OOPS questions from my course and also got Gold badge on hackerrank)
  
