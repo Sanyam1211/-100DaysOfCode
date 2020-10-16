@@ -60,3 +60,4 @@ Day 36 (Revised old topics today)
 
 Day 37 (Solved some OOPS questions from my course and also got Gold badge on hackerrank)
  
+Day 38 (Tried some maths questions on hackerrank)
