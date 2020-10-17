@@ -61,3 +61,6 @@ Day 36 (Revised old topics today)
 Day 37 (Solved some OOPS questions from my course and also got Gold badge on hackerrank)
  
 Day 38 (Tried some maths questions on hackerrank)
+https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/Day%2038
+
+Day 39 (Took rest today busy solving htb box)
