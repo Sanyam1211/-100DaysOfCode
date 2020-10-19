@@ -66,3 +66,5 @@ https://github.com/Sanyam1211/-100DaysOfLearningAndCoding/blob/master/Day%2038
 Day 39 (Took rest today busy solving htb box)
 
 Day 40 (Today i watched a video about running tests with unitest library and started working for new game project)
+
+Day 41 (Learn some more python modules)
