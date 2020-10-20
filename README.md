@@ -68,3 +68,5 @@ Day 39 (Took rest today busy solving htb box)
 Day 40 (Today i watched a video about running tests with unitest library and started working for new game project)
 
 Day 41 (Learn some more python modules)
+
+Day 42 (Started working with images in python)
