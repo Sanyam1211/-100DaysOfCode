@@ -69,6 +69,8 @@ Day 40 (Today i watched a video about running tests with unitest library and sta
 
 Day 41 (Learn some more python modules)
 
-Day 42 (Started working with images in python)
+Day 42 (Started working with images with python)
 
 Day 43 (Practiced working with images in python)
+
+Day 44 (Started working with pdfs and csv files with python)
