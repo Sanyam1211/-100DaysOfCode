@@ -76,3 +76,5 @@ Day 43 (Practiced working with images in python)
 Day 44 (Started working with pdfs and csv files with python)
 
 Day 45 (Took rest today and practiced some questions related to pdfs with python from my course)
+
+Day 46 (Rest today)
