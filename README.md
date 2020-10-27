@@ -80,3 +80,5 @@ Day 45 (Took rest today and practiced some questions related to pdfs with python
 Day 46 (Rest today)
 
 Day 47 (Started emails with python)
+
+Day (48-49) (learnt advance python objects and data structures)
