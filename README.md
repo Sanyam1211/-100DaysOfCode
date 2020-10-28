@@ -82,3 +82,5 @@ Day 46 (Rest today)
 Day 47 (Started emails with python)
 
 Day (48-49) (learnt advance python objects and data structures)
+
+Day (50) (Practiced some hackerrank questions)
